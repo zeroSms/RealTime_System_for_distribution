@@ -1,4 +1,4 @@
-name: test1
+name: eSense
 channels:
   - defaults
   - conda-forge
@@ -161,4 +161,4 @@ dependencies:
   - pip:
     - bleak==0.13.0
     - bleak-winrt==1.0.1
-prefix: C:\Users\perun\anaconda3\envs\test1
+prefix: C:\Users\perun\anaconda3\envs\eSense
