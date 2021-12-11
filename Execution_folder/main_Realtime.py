@@ -8,6 +8,8 @@ import os
 import shutil
 
 # 自作ライブラリ
+import sys, os
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 from head_nod_analysis import add_data, process_data, get_address, setup_variable
 from head_nod_analysis.enter_label import Label
 from head_nod_analysis.stop import Stop

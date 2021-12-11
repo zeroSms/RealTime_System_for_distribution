@@ -7,12 +7,7 @@ import collections
 import pandas as pd
 import socket
 import pickle
-import pyautogui
 
-from sklearn.decomposition import PCA
-from sklearn.linear_model import LogisticRegression
-from sklearn.preprocessing import StandardScaler
-from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, classification_report
 
 # 自作ライブラリ
@@ -81,7 +76,7 @@ def Realtime_analysis(to_server=False, port_select='1'):
     clf = pickle.load(open(path + '\\data_set\\analysis_files\\main\\trained_model.pkl', 'rb'))
     sensor_name = 'all'
     get_feature.feature_name(sensor_name)
-    filename = path + '\\data_set\\analysis_files\\feature_selection\\all\\None\\feature_list_selection0.csv'
+    filename = path + '\\data_set\\analysis_files\\SFM_35\\feature_list_selection0.csv'
     selection_X = pd.read_csv(filename)
 
     if to_server:
