@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ada600d-178e-4b06-9c27-cc5ed67287df" name="変更" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Execution_folder/face/face_run.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Execution_folder/face/video/video.avi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Execution_folder/face/video/video1.avi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Execution_folder/main_Realtime.py" beforeDir="false" afterPath="$PROJECT_DIR$/Execution_folder/main_Realtime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Execution_folder/main_face_nod.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/analysis_files/SFM_35/answer_list.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/analysis_files/SFM_35/feature_list_selection0.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/analysis_files/SFM_35/feature_list_selection1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/analysis_files/SFM_35/feature_list_selection2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/analysis_files/SFM_35/feature_list_selection3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/analysis_files/SFM_35/feature_list_selection4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/analysis_files/SFM_35/feature_list_selection5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/analysis_files/SFM_35/feature_rank.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/realtime_files/1/answer_list1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data_set/realtime_files/1/answer_list1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/realtime_files/1/predict_list1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data_set/realtime_files/1/predict_list1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/realtime_files/1/value_list1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data_set/realtime_files/1/value_list1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_set/realtime_files/1/window_list1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data_set/realtime_files/1/window_list1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/head_nod_analysis/add_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/head_nod_analysis/add_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/head_nod_analysis/client_face.py" beforeDir="false" afterPath="$PROJECT_DIR$/head_nod_analysis/client_face.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/head_nod_analysis/client_presenter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/head_nod_analysis/feature_selection.py" beforeDir="false" afterPath="$PROJECT_DIR$/head_nod_analysis/feature_selection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/head_nod_analysis/get_address.py" beforeDir="false" afterPath="$PROJECT_DIR$/head_nod_analysis/get_address.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/head_nod_analysis/get_feature.py" beforeDir="false" afterPath="$PROJECT_DIR$/head_nod_analysis/get_feature.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/head_nod_analysis/process_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/head_nod_analysis/process_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/head_nod_analysis/setup_variable.py" beforeDir="false" afterPath="$PROJECT_DIR$/head_nod_analysis/setup_variable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paz/backend/camera.py" beforeDir="false" afterPath="$PROJECT_DIR$/paz/backend/camera.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server_files/server_log/11.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="228ZKKUCD1dxfjXYfF4hvlUiGyU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.main_Realtime">
+    <configuration name="face_run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RealTime_System_for_distribution" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Execution_folder" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Execution_folder/face_run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_Realtime" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RealTime_System_for_distribution" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Execution_folder" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Execution_folder/main_Realtime.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.face_run" />
+        <item itemvalue="Python.main_Realtime" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="アプリケーションレベル" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="デフォルトタスク">
+      <changelist id="9ada600d-178e-4b06-9c27-cc5ed67287df" name="変更" comment="" />
+      <created>1639221109166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639221109166</updated>
+    </task>
+    <servers />
+  </component>
+</project>
